@@ -50,6 +50,8 @@ $associativeArray = ['name' => 'John',
 
             $num1 = 120 ;
             var_dump($num1);
+            settype($num1, 'string');
+            var_dump($num1);
             
 
 ?>
