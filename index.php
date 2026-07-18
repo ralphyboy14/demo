@@ -48,6 +48,8 @@ $associativeArray = ['name' => 'John',
             $moreNumbers = [0 , ...$numbers, 6 ];
             var_dump($moreNumbers);
 
+            $num1 = 120 ;
+            var_dump($num1);
             
 
 ?>
